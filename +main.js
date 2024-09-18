@@ -1,2 +1,2 @@
 let nomeUsuario ='mria, luscaa';
-alert = (nomeUsuario);
+alert(nomeUsuario);
