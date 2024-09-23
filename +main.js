@@ -17,11 +17,12 @@ function tri(base, altura){
 console.log (tri(3, 4));
 
 let media = parselnt (prompt('qual o primeiro numero?'));
-let htm = parseInt (prompt('qual o segundo numero?'));
-let marrom = parseInt (prompt('qual o terceiro número?'));
 document.write (um);
+let htm = parseInt (prompt('qual o segundo numero?'));
 document.write (dois);
+let marrom = parseInt (prompt('qual o terceiro número?'));
 document.write (tres);
+
 function media (number1, number2, number3){
     return (number1+number2+number3)/3;
 }
