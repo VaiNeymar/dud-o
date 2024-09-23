@@ -6,6 +6,6 @@ function soma(num1, num2){
 
 console.log (soma(4, 2));
 
-function multiplicação(numero1,numero2){
-    return numero1*numero2;
+function área(lado1,lado2){
+    return lado1*lado2;
 }
