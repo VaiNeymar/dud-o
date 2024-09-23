@@ -16,7 +16,10 @@ function tri(base, altura){
 }
 console.log (tri(3, 4));
 
-let média = parselnt (prompt('qual a média dos valores?'))
-function média (number1, number2, number3){
-    return (number1+number2+number3)/3
+let media = parselnt (prompt('qual o primeiro numero?'));
+let htm = parseInt (prompt('qual o segundo numero?'));
+let marrom = parseInt (prompt('qual o terceiro número?'));
+function media (number1, number2, number3){
+    return (number1+number2+number3)/3;
 }
+document.write (média);
