@@ -15,3 +15,7 @@ function tri(base, altura){
     return (base*altura)/2;
 }
 console.log (tri(3, 4));
+
+let nome = prompt ('?')
+
+document.write (nome);
