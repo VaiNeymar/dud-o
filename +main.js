@@ -22,4 +22,6 @@ let marrom = parseInt (prompt('qual o terceiro número?'));
 function media (number1, number2, number3){
     return (number1+number2+number3)/3;
 }
-document.write (média);
+document.write (um);
+document.write (dois);
+document.write (tres);
