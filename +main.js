@@ -11,6 +11,6 @@ function área(lado1,lado2){
 }
 console.log (área(6, 6));
 
-function tri(base, altura, 2){
-    return base*altura/2;
+function tri(base, altura, div2){
+    return base*altura/div2;
 }
