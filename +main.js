@@ -16,6 +16,6 @@ function tri(base, altura){
 }
 console.log (tri(3, 4));
 
-let nome = prompt ('?')
+let nome = prompt ('qual seu nome?')
 
 document.write (nome);
