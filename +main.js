@@ -14,3 +14,4 @@ console.log (área(6, 6));
 function tri(base, altura, div2){
     return base*altura/div2;
 }
+console.log (tri(3, 4, 2));
