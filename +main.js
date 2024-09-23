@@ -17,5 +17,7 @@ function tri(base, altura){
 console.log (tri(3, 4));
 
 let nome = prompt ('qual seu nome?')
-
 document.write (nome);
+
+let média = prompt ('qual a média dos valores?')
+document.write (22, 24, 28)
