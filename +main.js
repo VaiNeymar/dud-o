@@ -20,4 +20,3 @@ let média = parselnt (prompt('qual a média dos valores?'))
 function média (number1, number2, number3){
     return (number1, number2, number3)/3
 }
-console.log(2, 4, 6)
