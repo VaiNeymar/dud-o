@@ -28,6 +28,6 @@ let estados=['PR', 'RJ', 'RS', 'SC', 'SP', 'MS', 'MT', 'AM', 'BA', 'RO', 'MG', '
 let ig=0;
 while(ig<=28){
     console.log(ig);
-    console.log(estdos[ig]);
+    console.log(estados[ig]);
     ig=ig+1;
 }
