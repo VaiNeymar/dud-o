@@ -29,5 +29,5 @@ let ig=0;
 while(ig<estados.length){
     console.log(ig);
     console.log(estados[ig]);
-    ig=ig+1;
+    ig++;
 }
