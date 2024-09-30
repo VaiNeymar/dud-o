@@ -40,5 +40,5 @@ if(idade>900) {
 console.log('já pode governar Asgard');
 }
 else{
-    console.log('não pode governar');
+    console.log('não pode governar Asgard');
 }
