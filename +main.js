@@ -28,4 +28,5 @@ let estados=['PR', 'RJ', 'RS', 'SC', 'SP', 'MS', 'MT', 'AM', 'BA', 'RO', 'MG', '
 let ig=0;
 while(ig<10){
     console.log(ig);
+    ig=ig+1;
 }
