@@ -24,3 +24,8 @@
 // }
 
 let estados=['PR', 'RJ', 'RS', 'SC', 'SP', 'MS', 'MT', 'AM', 'BA', 'RO', 'MG', 'AC', 'ES', 'GO', 'AL', 'AP', 'DF', 'RR', 'CE', 'MA', 'PI', 'PA', 'PE', 'RN', 'RR', 'SE', 'TO']
+
+let ig=0;
+while(ig<10){
+    console.log(ig);
+}
