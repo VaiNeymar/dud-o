@@ -22,3 +22,5 @@
 // function media (number1, number2, number3){
 //     return (number1+number2+number3)/3;
 // }
+
+let estados=['PR', 'RJ', 'RS', 'SC', 'SP', 'MS', 'MT', 'AM', 'BA', 'RO', 'MG', 'AC', 'ES', 'GO', 'AL', 'AP', 'DF', 'RR', 'CE', 'MA', 'PI', 'PA', 'PE', 'RN', 'RR', 'SE', 'TO']
