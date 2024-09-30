@@ -35,7 +35,7 @@
 //for (let ig = 0; ig < estados.length; ig++) {
     //console.log(estados[ig]);
 //}
-let.idade=parseInt(prompt('qual sua idade?'));
+let idade = parseInt(prompt('qual sua idade?'));
 if(idade>900) {
 console.log('já pode governar Asgard');
 }
