@@ -23,7 +23,7 @@
 //     return (number1+number2+number3)/3;
 // }
 
-// let estados=['PR', 'RJ', 'RS', 'SC', 'SP', 'MS', 'MT', 'AM', 'BA', 'RO', 'MG', 'AC', 'ES', 'GO', 'AL', 'AP', 'DF', 'RR', 'CE', 'MA', 'PI', 'PA', 'PE', 'RN', 'RR', 'SE', 'TO']
+ let estados=['PR', 'RJ', 'RS', 'SC', 'SP', 'MS', 'MT', 'AM', 'BA', 'RO', 'MG', 'AC', 'ES', 'GO', 'AL', 'AP', 'DF', 'RR', 'CE', 'MA', 'PI', 'PA', 'PE', 'RN', 'RR', 'SE', 'TO']
 
 // let ig=0;
 // while(ig<estados.length){
@@ -34,5 +34,4 @@
 
 for (let ig = 0; ig < estados.length; ig++) {
     console.log(estados[ig]);
-    
 }
